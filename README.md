@@ -10,7 +10,7 @@ This workflow uses [googler](https://github.com/jarun/googler) & Alfred to perfo
 brew install googler
 ```
 
-2. Download the [workflow file](https://github.com/joshuawalker/gh-docs-alfred/raw/master/Google%20Search.alfredworkflow) and double click to open it with Alfred.
+2. Download the [workflow file](https://github.com/joshuawalker/gh-docs-alfred/raw/master/gh-docs-alfred.alfredworkflow) and double click to open it with Alfred.
 
 #### Using the workflow
 
