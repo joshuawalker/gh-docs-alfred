@@ -10,6 +10,10 @@ This workflow uses [googler](https://github.com/jarun/googler) & Alfred to perfo
 brew install googler
 ```
 
+```sh
+sudo curl -o /usr/local/bin/googler https://raw.githubusercontent.com/jarun/googler/v4.2/googler && sudo chmod +x /usr/local/bin/googler
+```
+
 2. Download the [workflow file](https://github.com/joshuawalker/gh-docs-alfred/raw/main/gh-docs-alfred.alfredworkflow) and double click to open it with Alfred.
 
 #### Using the workflow
